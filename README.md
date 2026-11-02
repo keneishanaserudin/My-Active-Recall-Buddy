@@ -10,7 +10,6 @@ Many students rely on passive study methods, such as rereading, highlighting, un
 - **External tools:** OpenAI API, Visual Studio Code, Git, GitHub, Vercel, hosting service
 
 ## Setup
-How to run the project locally?
 1. Clone the repository.
 ```
 git clone https://github.com/keneishanaserudin/My-Active-Recall-Buddy.git
