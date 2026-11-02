@@ -31,6 +31,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 For Windows:
+
 ```.venv\Scripts\activate```
 
 4. Configure the OpenAI API.
