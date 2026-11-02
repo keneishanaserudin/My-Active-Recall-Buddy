@@ -22,14 +22,14 @@ npm install
 ```
 3. Install backend dependencies.
 
-For Mac:
+   For Mac:
 ```
 cd backend
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
-For Windows:
+   For Windows:
 
 ```.venv\Scripts\activate```
 
@@ -46,12 +46,12 @@ cd frontend
 npm install
 ```
 3. Use the application.
-    1) Upload study materials in PDF or TXT format.
-    2) Enter or select a topic to study.
-    3) Start the stopwatch and write an explanation of the topic from memory.
-    4) Submit your response for AI evaluation.
-    5) Review the feedback identifying correct, incorrect, and missing concepts.
-    6) Use the mistake log to identify topics that need further review.
+    1. Upload study materials in PDF or TXT format.
+    2. Enter or select a topic to study.
+    3. Start the stopwatch and write an explanation of the topic from memory.
+    4. Submit your response for AI evaluation.
+    5. Review the feedback identifying correct, incorrect, and missing concepts.
+    6. Use the mistake log to identify topics that need further review.
 
 ## Roadmap
 Planned features for **My Active Recall Buddy** in the future:
