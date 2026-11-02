@@ -12,7 +12,8 @@ Many students rely on passive study methods, such as rereading, highlighting, un
 ## Setup
 How to run the project locally?
 1. Clone the repository.
-```git clone https://github.com/keneishanaserudin/My-Active-Recall-Buddy.git
+```
+git clone https://github.com/keneishanaserudin/My-Active-Recall-Buddy.git
 cd My-Active-Recall-Buddy
 ```
 2. Install frontend dependencies.
