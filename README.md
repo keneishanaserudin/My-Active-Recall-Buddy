@@ -22,14 +22,14 @@ npm install
 ```
 3. Install backend dependencies.
 
-   For Mac:
+For Mac:
 ```
 cd backend
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
-   For Windows:
+For Windows:
 
 ```.venv\Scripts\activate```
 
