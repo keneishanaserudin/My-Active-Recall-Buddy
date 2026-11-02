@@ -33,8 +33,10 @@ For Windows:
 
 ## Usage
 1. Start the backend server.
-```uvicorn main:app --reload```
-2. Install frontend dependencies.
+```uvicorn main:app --reload
+     
+```
+3. Install frontend dependencies.
 ```cd frontend
 npm install
 ```
