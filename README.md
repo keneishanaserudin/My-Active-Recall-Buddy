@@ -27,14 +27,12 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 For Windows:
-```.venv\Scripts\activate
-```
+```.venv\Scripts\activate```
 4. Configure the OpenAI API.
 
 ## Usage
 1. Start the backend server.
-```uvicorn main:app --reload
-```
+```uvicorn main:app --reload```
 2. Install frontend dependencies.
 ```cd frontend
 npm install
