@@ -17,12 +17,15 @@ git clone https://github.com/keneishanaserudin/My-Active-Recall-Buddy.git
 cd My-Active-Recall-Buddy
 ```
 2. Install frontend dependencies.
-```cd frontend
+```
+cd frontend
 npm install
 ```
 3. Install backend dependencies.
+
 For Mac:
-```cd backend
+```
+cd backend
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -34,11 +37,12 @@ For Windows:
 
 ## Usage
 1. Start the backend server.
-```uvicorn main:app --reload
-     
+```
+uvicorn main:app --reload   
 ```
 3. Install frontend dependencies.
-```cd frontend
+```
+cd frontend
 npm install
 ```
 3. Use the application.
